@@ -1,3 +1,5 @@
+This is the first iteration of the Vikicols web development project. This project will follow the instruction of Hartl's description of a microblog production scheme using Ruby on Rails. 'Ruby on Rails 3' is the text of choice while moving forward. 
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
