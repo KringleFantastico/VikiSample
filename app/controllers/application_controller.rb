@@ -12,4 +12,8 @@ class ApplicationController < ActionController::Base
   
   def help
   end
+  
+  def base_title
+  end
+  
 end
