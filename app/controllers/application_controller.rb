@@ -10,4 +10,6 @@ class ApplicationController < ActionController::Base
   def about
   end
   
+  def help
+  end
 end
